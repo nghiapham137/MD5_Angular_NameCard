@@ -29,6 +29,7 @@
              
             ],
             "scripts": [
+              "../name-card-app/node_modules/jquery/dist/jquery.min.js",
               "../name-card-app/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           },
